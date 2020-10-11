@@ -1,2 +1,2 @@
-# ikea-training
+# ikea
 Train my js skills
